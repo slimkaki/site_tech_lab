@@ -1,6 +1,9 @@
 body {
 	background-color: #DFFFED;
 }
-head {
-	font-family: Helvetica.ttf
+a {
+	font-family: Helvetica;
+	font-size: 21px;
+	margin: 15px;
+	padding: 10
 }
